@@ -59,8 +59,9 @@ public class JuanDelaCruz {
 Compile and execute your class:
 
 ```bash
-javac src/JuanDelaCruz.java
-java -cp src JuanDelaCruz
+cd src
+javac JuanDelaCruz.java
+java JuanDelaCruz
 ```
 
 ### 6. Stage and Commit
